@@ -35,3 +35,12 @@ h1 {
 blockquote {
     border: none;
 }
+
+h2 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h4 {
+    display: inline;
+}
