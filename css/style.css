@@ -41,6 +41,19 @@ h2 {
     text-align: center;
 }
 
+hr {
+    border-top-color: #09b2cb;
+}
+
 h4 {
-    display: inline;
+    display: inline;    
+}
+
+.blue-background {
+    border-top-color: white;
+}
+
+#portfolio {
+    background-color: #09b2cb;
+    color: white;
 }
