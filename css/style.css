@@ -1,11 +1,22 @@
 #top-bar {
     text-transform: uppercase;
+    background-color: #09b2cb;
 }
 
-#background-upper-part {
-    background-color: #c1c1c1;
+h1 {
+    font-size: 2.8vw;
+}
+
+.navigation-button {
+    height: 100%;
+    font-size: 2vw;
+}
+
+#quote {
+    /*text-align: center;*/
+    /*background-color: #c1c1c1;*/  
 }
 
 blockquote {
-    text-align: center;
+    border: none;
 }
