@@ -40,17 +40,20 @@ h4 {
 .navbar {
     background-color: #09b2cb;
     border-color: #09b2cb;
-    color: white; 
+    color: white;
+    max-height: 50px;
 }
 
 h1 {
     text-transform: uppercase;
+    margin-top: 7px;
+    margin-bottom: 7px;
 }
 
-button {
+.navbar-buttons {
     font-size: 2vw;
     background-color: #09b2cb;
     border: none;
     border-left: solid;
-    margin-top: 10%;
+    /*margin-top: 10%;*/
 }
