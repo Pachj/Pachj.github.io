@@ -6,15 +6,6 @@ body {
     color: white;
 }
 
-blockquote {
-    border: none;
-    color: white;
-    top: 30%;
-    left: 60%;
-    position: absolute;
-    font-size: 2.8vw;
-}
-
 h2 {
     text-transform: uppercase;
     text-align: center;
