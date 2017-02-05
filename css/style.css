@@ -77,3 +77,12 @@ h4 {
 .hr-blue-backround {
     border-top-color: white;
 }
+
+.showcase {
+    padding-bottom: 15px;
+}
+
+.placeholder-image {
+    height: 150;
+    width: auto;    
+}
