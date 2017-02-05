@@ -6,14 +6,30 @@ body {
 .navbar {
     background-color: #09b2cb;
     border-color: #09b2cb;
-    color: white;
-    max-height: 50px;
+    color: white;  
+    min-height: 5vw;  
 }
 
-h1 {
+.navbar-big-device {
+    height: 5vw;    
+}
+
+.navbar-small-device {
+    height: 8vw;
+}
+
+.h1-big-device {
     text-transform: uppercase;
-    margin-top: 7px;
-    margin-bottom: 7px;
+    margin: 0px;
+    font-size: 4vw;
+    padding-top: .2vw;  
+}
+
+.h1-small-device {
+    text-transform: uppercase;
+    margin: 0px;
+    font-size: 6.4vw;
+    padding-top: .32vw;
 }
 
 .navbar-buttons {
@@ -21,7 +37,9 @@ h1 {
     background-color: #09b2cb;
     border: none;
     border-left: solid;
-    /*margin-top: 10%;*/
+    font-size: 2vw;
+    margin-top: 1.5vw;
+    padding: 0px;
     
 }
 
