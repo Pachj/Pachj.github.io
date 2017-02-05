@@ -6,23 +6,6 @@ body {
     color: white;
 }
 
-#top-bar {
-    text-transform: uppercase;
-    background-color: #09b2cb;
-}
-
-h1 {
-    font-size: 2.8vw;
-}
-
-.navigation-button {    
-    font-size: 2vw;
-    background-color: #09b2cb;
-    border: none;
-    border-left: solid;
-    margin-top: 10%;
-}
-
 blockquote {
     border: none;
     color: white;
@@ -52,4 +35,14 @@ h4 {
 #portfolio {
     background-color: #09b2cb;
     color: white;    
+}
+
+.fixed-nav-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    width: 100%;
+    height: 50px;
+    background-color: #09b2cb;
 }
