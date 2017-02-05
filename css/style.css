@@ -50,6 +50,15 @@ a:link, a:visited {
 h2 {
     text-transform: uppercase;
     text-align: center;
+    /*font-size: 8vw;*/
+}
+
+.h2-big-device {
+    font-size: 60px;
+}
+
+.h2-small-device {
+    font-size: 8vw;
 }
 
 h4 {
