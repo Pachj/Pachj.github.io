@@ -1,31 +1,6 @@
 body {
     color: #09b2cb;
-}
-
-#upper-part {
-    color: white;
-}
-
-h2 {
-    text-transform: uppercase;
-    text-align: center;
-}
-
-h4 {
-    display: inline;    
-}
-
-.hr-white-background {
-    border-top-color: #09b2cb;
-}
-
-.hr-blue-backround {
-    border-top-color: white;
-}
-
-#portfolio {
-    background-color: #09b2cb;
-    color: white;    
+    font-family: 'Montserrat', sans-serif;
 }
 
 .navbar {
@@ -47,4 +22,31 @@ h1 {
     border: none;
     border-left: solid;
     /*margin-top: 10%;*/
+    
+}
+
+a:link, a:visited {
+    color: white;
+}
+
+h2 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h4 {
+    display: inline;    
+}
+
+.blue-backround {
+    background-color: #09b2cb;
+    color: white;    
+}
+
+.hr-white-background {
+    border-top-color: #09b2cb;
+}
+
+.hr-blue-backround {
+    border-top-color: white;
 }
