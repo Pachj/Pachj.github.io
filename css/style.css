@@ -56,13 +56,6 @@ body {
     visibility: hidden;
 }
 
-.box-around-section {
-    margin-top: 40px;
-    margin-bottom: 40px;
-/*    padding-top: 5vw;
-    padding-bottom: 5vw;*/
-}
-
 h2 {
     text-transform: uppercase;
     text-align: center;    
