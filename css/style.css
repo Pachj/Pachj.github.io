@@ -50,6 +50,11 @@ body {
     color: white;
 }
 
+.box-around-section {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
 h2 {
     text-transform: uppercase;
     text-align: center;
