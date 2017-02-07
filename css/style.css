@@ -57,8 +57,7 @@ body {
 
 h2 {
     text-transform: uppercase;
-    text-align: center;
-    /*font-size: 8vw;*/
+    text-align: center;    
 }
 
 .h2-big-device {
