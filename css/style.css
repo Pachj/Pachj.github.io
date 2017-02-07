@@ -64,8 +64,12 @@ h2 {
     font-size: 8vw;
 }
 
-p {
+.p-big-device {
     font-size: 20px;
+}
+
+.p-small-device {
+    font-size: 2.66vw;
 }
 
 .blue-backround {
