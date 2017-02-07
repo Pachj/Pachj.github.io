@@ -42,7 +42,11 @@ body {
     text-align: center;
 }
 
-a:link, a:visited {
+.navbar-links:link {
+    color:white;
+}
+
+.navbar-links:visited {
     color: white;
 }
 
@@ -84,4 +88,26 @@ h4 {
 .placeholder-image {
     height: 150;
     width: auto;    
+}
+
+.social-links:link {
+    color: #09b2cb;
+}
+
+.social-links:visited {
+    color: #09b2cb;
+}
+
+.fa-twitter {
+    color: #09b2cb;
+    font-size: 7vw;
+}
+.fa-github {
+    color: #09b2cb;
+    font-size: 7vw;
+}
+
+.fa-free-code-camp {
+    color: #09b2cb;
+    font-size: 7vw;
 }
