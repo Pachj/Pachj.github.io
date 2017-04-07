@@ -120,3 +120,22 @@ h2 {
     color: #09b2cb;
     font-size: 7vw;
 }
+
+.frame {
+    width: 320px;
+    height: 568px;
+    border: 0;
+    -ms-transform: scale(0.5);
+    -moz-transform: scale(0.5);
+    -o-transform: scale(0.5);
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+
+    -ms-transform-origin: 0 0;
+    -moz-transform-origin: 0 0;
+    -o-transform-origin: 0 0;
+    -webkit-transform-origin: 0 0;
+    transform-origin: 0 0;
+
+
+}
